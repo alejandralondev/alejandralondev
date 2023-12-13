@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [my demo project](https://github.com/alejandralondev/demo-day)
 
-- 🌱 I’m currently learning **Node.js and looking forward to React**
+- 🌱 I’m currently learning **Node.js and React**
 
 - 👨‍💻 All of my projects are available at [https://alejandralondev.netlify.app/](https://alejandralondev.netlify.app/)
 
